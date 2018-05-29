@@ -1,3 +1,5 @@
 # hello-world
-dis manditory
-these changes are manditory as well! oh isnt this fun :))))
+made mandatory
+these changes are mandatory as well! oh isn't this fun :))))
+
+fun stuff were doing here. typing in atom! I figured it out
